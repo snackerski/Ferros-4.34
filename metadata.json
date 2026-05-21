@@ -1,0 +1,5 @@
+{
+  "name": "FerrOS - System Rezerwacji Promowej V4.33",
+  "description": "Kompleksowy system zarządzania rezerwacjami promowymi, obsługą pasażerów, ładunków (cargo) oraz odprawą. Realizacja specyfikacji obejmująca moduły sprzedażowe, administracyjne i operacyjne.",
+  "requestFramePermissions": []
+}
